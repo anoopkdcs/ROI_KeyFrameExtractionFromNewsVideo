@@ -1,1 +1,1 @@
-# ROI-and-Key-Frame-Extraction-From-News-Video
+# ROI & Key Frame Extraction From News Video
