@@ -14,3 +14,9 @@ Two sample input video frames
 
 # Output Images 
 Words extacted from input video frames
+
+# References
+<br>[1] Anoop, K., Manjary P. Gangan, and V. L. Lajish. "Mathematical Morphology and Region Clustering Based Text Information Extraction from Malayalam News Videos." Advances in Signal Processing and Intelligent Recognition Systems. Springer, Cham, 2016. 431-442. 
+<br>[2] Vivek, Anoop Kadan P., and V. L. Lajish. "A KEYWORD SPOTTING APPROACH FOR CONTENT BASED INDEXING AND RETRIEVAL OF MALAYALAM NEWS VIDEOS.",National Symposium on Acoustics - NSA 2015. 
+<br>[3] Anoop, K., and V. L. Lajish. "Morphology based text detection and extraction from Malayalam news videos.", 
+National Conference on Indian Language Computing NCILC 2015.
