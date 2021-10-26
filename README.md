@@ -5,6 +5,8 @@ Computational Intelligence and Data Analytics (CIDA Lab) </br>
 Department of Computer Science </br>
 University of Calicut, India </br>
 :memo: [Paper](https://www.researchgate.net/publication/286442060_Morphology_Based_Text_Detection_and_Extraction_from_Malayalam_News_Videos) </br>
+
+
 **Abstract**: Digital video is an important information source in the modern world. The domain of digital video incl udes cinema, TV programmes, news videos, video lectures and e-contents uploaded in social media. The textual modality available in the video is more semantically related to the content of the videos. This textual information will be used very effectively for the purpose of searching the huge volume of digital video information in a flexible manner. In this paper we propose a morphology base d approach for text detection and extraction from Malayalam news videos. The proposed method includes the selection of key frame image s (which contain textual information) from the input videos and a robust text extraction from the key frame images. The proposed method is found to be working effectively with different size, color and typescript oriented text having complex image backgrounds. Experiments are conducted over the key frames extracted from MPEG-4 compressed news video streams of DD Malayalam, which is a Malayalam satellite channel supported by Doordarshan (India's Public Service broadcaster). The results obtained based on the proposed techniques are very promising and highly beneficial as Kerala is one of the most media centric societies in the world, produces huge amount of digital videos in Malayalam.
 
 ### Matlab codes
