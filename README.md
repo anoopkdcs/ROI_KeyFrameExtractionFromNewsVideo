@@ -16,7 +16,7 @@ University of Calicut, India </br>
 One minute sample News video ([News_video03.mp4](Sample-DataSet/News_video03.mp4))
 
 ### Input Video frames
-Two sample input video frames ([Input Images](Input Images/README.md))
+Two sample input video frames 
 
 ### Output Images 
 Words extacted from input video frames
