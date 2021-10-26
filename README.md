@@ -1,6 +1,6 @@
 # ROI & Key Frame Extraction From News Video
 ## Morphology  Based Text Detection and Extraction from Malayalam  News Videos
-Anoop K, and Lajish V L </br>
+Anoop K, Lajish V L </br>
 Computational Intelligence and Data Analytics (CIDA Lab) </br>
 Department of Computer Science </br>
 University of Calicut, India </br>
