@@ -28,7 +28,7 @@ One minute sample News video ([News_video03.mp4](Sample-DataSet/News_video03.mp4
 ```
 
 ### Related works
-[1] Manjary P Gangan, Anoop K, Lajish V L "Indexing and retrieval of malayalam news videos based on word image matching." In 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI), pp. 1103-1108. IEEE, 2017.
-[2] Anoop K, Manjary P Gangan, Lajish V. L. "Mathematical Morphology and Region Clustering Based Text Information Extraction from Malayalam News Videos." Advances in Signal Processing and Intelligent Recognition Systems. Springer, Cham, 2016. 431-442. </br>
-[3] Vivek P, Anoop K, and Lajish V. L. "A KEYWORD SPOTTING APPROACH FOR CONTENT BASED INDEXING AND RETRIEVAL OF MALAYALAM NEWS VIDEOS.",National Symposium on Acoustics - NSA Goa 2015. </br>
+[1] Manjary P Gangan, Anoop K, Lajish V L "Indexing and retrieval of malayalam news videos based on word image matching." In 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI), pp. 1103-1108. IEEE, 2017. </br>
+[2] Anoop K, Manjary P Gangan, Lajish V. L. "Mathematical Morphology and Region Clustering Based Text Information Extraction from Malayalam News Videos." Advances in Signal Processing and Intelligent Recognition Systems. Springer, Cham, 2016. 431-442. [github](https://github.com/anoopkdcs/Ticker-Text-Extraction-from-News-Videos) </br>
+[3] Vivek P, Anoop K, and Lajish V. L. "A Keyword spotting approach for content based indexing and retrieval of malayalam news videos.", National Symposium on Acoustics (NSA) Goa, 2015. </br>
  
