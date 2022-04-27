@@ -22,13 +22,13 @@ One minute sample News video ([News_video03.mp4](Sample-DataSet/News_video03.mp4
 @inproceedings{anoop2014morphology,
   title={Morphology based text detection and extraction from Malayalam news videos},
   author={Anoop, K and Lajish, VL},
-  booktitle={National Conference on Indian Language Computing},
+  booktitle={National Conference on Indian Language Computing (NCILC), CUSAT, Kochi},
   year={2014}
 }
 ```
 
 ### Related works
-[1] Manjary P Gangan, Anoop K, Lajish V L "Indexing and retrieval of malayalam news videos based on word image matching." In 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI), pp. 1103-1108. IEEE, 2017. </br>
-[2] Anoop K, Manjary P Gangan, Lajish V. L. "Mathematical Morphology and Region Clustering Based Text Information Extraction from Malayalam News Videos." Advances in Signal Processing and Intelligent Recognition Systems. Springer, Cham, 2016. 431-442. [github](https://github.com/anoopkdcs/Ticker-Text-Extraction-from-News-Videos) </br>
-[3] Vivek P, Anoop K, and Lajish V. L. "A Keyword spotting approach for content based indexing and retrieval of malayalam news videos.", National Symposium on Acoustics (NSA) Goa, 2015. </br>
+[1] Manjary P Gangan, Anoop K, Lajish V L "Indexing and retrieval of malayalam news videos based on word image matching." In 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI), pp. 1103-1108. IEEE, 2017, DOI: 10.1109/ICACCI.2017.8125989. [paper](https://ieeexplore.ieee.org/document/8125989) </br>
+[2] Anoop K, Manjary P Gangan, Lajish V. L. "Mathematical Morphology and Region Clustering Based Text Information Extraction from Malayalam News Videos." Advances in Signal Processing and Intelligent Recognition Systems, pp.431-442, Springer, Cham, 2016, DOI 10.1007/978-3-319-28658-7_37. [paper](https://link.springer.com/chapter/10.1007/978-3-319-28658-7_37) [github](https://github.com/anoopkdcs/Ticker-Text-Extraction-from-News-Videos) </br>
+[3] Vivek P, Anoop K, and Lajish V. L. "A Keyword spotting approach for content based indexing and retrieval of malayalam news videos.", National Symposium on Acoustics (NSA) Goa, 2015. [paper](https://www.researchgate.net/publication/286442254_A_Keyword_Spotting_Approach_for_Content_Based_Indexing_and_Retrieval_of_Malayalam_News_Videos) </br>
  
